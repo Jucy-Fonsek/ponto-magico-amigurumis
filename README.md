@@ -167,19 +167,17 @@ O desenvolvimento foi realizado considerando as restrições do plano utilizado 
 
 ## 8. Evidências do projeto
 
-Nesta seção serão disponibilizadas capturas de tela da aplicação e do painel administrativo.
+### 🏠 Página Inicial
+![Página Inicial](docs/images/pagina-inicial.png)
 
-As imagens estão adicionadas ao repositório  na pasta `docs/images/`.
+### 🧶 Catálogo de Produtos
+![Catálogo](docs/images/catalogo.png)
 
-Evidências previstas:
+### 📋 Formulário de Encomenda
+![Formulário de Encomenda](docs/images/encomenda.png)
 
-- Página inicial.
-- Catálogo de produtos.
-- Detalhes de um produto.
-- Formulário de solicitação de encomenda.
-- Tela de acesso da artesã.
-- Painel administrativo.
-- Gerenciamento das solicitações.
+### 🔐 Acesso Administrativo
+![Login Admin](docs/images/login-admin.png)
 
 ## 9. Aplicação publicada
 
