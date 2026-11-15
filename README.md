@@ -183,9 +183,9 @@ Evidências previstas:
 
 ## 9. Aplicação publicada
 
-**Endereço da aplicação:** [https://ponto-magico-amigurumis.lovable.app]
+**Endereço da aplicação:** https://ponto-magico-amigurumis.lovable.app
 
-**Repositório GitHub:** [https://github.com/Jucy-Fonsek/ponto-magico-amigurumis/edit/main/README.md]
+**Repositório GitHub:** https://github.com/Jucy-Fonsek/ponto-magico-amigurumis
 
 ## 10. Considerações finais
 
